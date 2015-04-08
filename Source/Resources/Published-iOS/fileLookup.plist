@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filenames</key>
+	<dict>
+		<key>assets/Select Character/Capture.PNG</key>
+		<string>assets/Select Character/Capture.png</string>
+		<key>assets/Select Character/Select_character.PNG</key>
+		<string>assets/Select Character/Select_character.png</string>
+		<key>assets/buttons/pause.PNG</key>
+		<string>assets/buttons/pause.png</string>
+		<key>assets/title/1.PNG</key>
+		<string>assets/title/1.png</string>
+		<key>assets/title/10.PNG</key>
+		<string>assets/title/10.png</string>
+		<key>assets/title/11.PNG</key>
+		<string>assets/title/11.png</string>
+		<key>assets/title/12.PNG</key>
+		<string>assets/title/12.png</string>
+		<key>assets/title/13.PNG</key>
+		<string>assets/title/13.png</string>
+		<key>assets/title/14.PNG</key>
+		<string>assets/title/14.png</string>
+		<key>assets/title/15.PNG</key>
+		<string>assets/title/15.png</string>
+		<key>assets/title/2.PNG</key>
+		<string>assets/title/2.png</string>
+		<key>assets/title/3.PNG</key>
+		<string>assets/title/3.png</string>
+		<key>assets/title/4.PNG</key>
+		<string>assets/title/4.png</string>
+		<key>assets/title/5.PNG</key>
+		<string>assets/title/5.png</string>
+		<key>assets/title/6.PNG</key>
+		<string>assets/title/6.png</string>
+		<key>assets/title/7.PNG</key>
+		<string>assets/title/7.png</string>
+		<key>assets/title/8.PNG</key>
+		<string>assets/title/8.png</string>
+		<key>assets/title/9.PNG</key>
+		<string>assets/title/9.png</string>
+		<key>assets/title/Capture.PNG</key>
+		<string>assets/title/Capture.png</string>
+		<key>assets/title/perfectcatch.PNG</key>
+		<string>assets/title/perfectcatch.png</string>
+		<key>assets/title/touchdown.PNG</key>
+		<string>assets/title/touchdown.png</string>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
