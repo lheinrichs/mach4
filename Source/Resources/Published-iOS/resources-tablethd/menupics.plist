@@ -4,6 +4,19 @@
 <dict>
 	<key>frames</key>
 	<dict>
+		<key>menupics/arm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3783, 765}, {380, 254}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {380, 254}}</string>
+			<key>sourceSize</key>
+			<string>{380, 254}</string>
+		</dict>
 		<key>menupics/back button.png</key>
 		<dict>
 			<key>frame</key>
@@ -20,7 +33,7 @@
 		<key>menupics/back.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3783, 383}, {240, 160}}</string>
+			<string>{{3783, 1147}, {240, 160}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -59,7 +72,7 @@
 		<key>menupics/feild2big.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3783, 1089}, {380, 126}}</string>
+			<string>{{2275, 783}, {380, 126}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -69,10 +82,36 @@
 			<key>sourceSize</key>
 			<string>{380, 126}</string>
 		</dict>
+		<key>menupics/football2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3783, 1471}, {218, 192}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {218, 192}}</string>
+			<key>sourceSize</key>
+			<string>{218, 192}</string>
+		</dict>
+		<key>menupics/ground.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3783, 1665}, {380, 214}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {380, 214}}</string>
+			<key>sourceSize</key>
+			<string>{380, 214}</string>
+		</dict>
 		<key>menupics/hills.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3917, 707}, {380, 126}}</string>
+			<string>{{3917, 2047}, {380, 126}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -108,10 +147,23 @@
 			<key>sourceSize</key>
 			<string>{2498, 780}</string>
 		</dict>
+		<key>menupics/player2_0noarm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3783, 1}, {286, 380}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {286, 380}}</string>
+			<key>sourceSize</key>
+			<string>{286, 380}</string>
+		</dict>
 		<key>menupics/player_passparttwo-1.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3783, 1}, {380, 270}}</string>
+			<string>{{3783, 383}, {380, 270}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -124,7 +176,7 @@
 		<key>menupics/settings.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3783, 545}, {240, 160}}</string>
+			<string>{{3783, 1309}, {240, 160}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -150,7 +202,7 @@
 		<key>menupics/startbutton.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{3783, 707}, {380, 132}}</string>
+			<string>{{3783, 2047}, {380, 132}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
