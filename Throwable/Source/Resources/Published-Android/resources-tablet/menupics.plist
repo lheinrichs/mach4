@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>menupics/1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1139, 1501}, {192, 230}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {192, 230}}</string>
+			<key>sourceSize</key>
+			<string>{192, 230}</string>
+		</dict>
+		<key>menupics/arm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 1894}, {190, 127}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {190, 127}}</string>
+			<key>sourceSize</key>
+			<string>{190, 127}</string>
+		</dict>
+		<key>menupics/back button.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1252}, {1136, 640}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1136, 640}}</string>
+			<key>sourceSize</key>
+			<string>{1136, 640}</string>
+		</dict>
+		<key>menupics/back.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1928, 193}, {120, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 80}}</string>
+			<key>sourceSize</key>
+			<string>{120, 80}</string>
+		</dict>
+		<key>menupics/backred.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1139, 1199}, {300, 300}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {300, 300}}</string>
+			<key>sourceSize</key>
+			<string>{300, 300}</string>
+		</dict>
+		<key>menupics/button.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1139, 512}, {334, 305}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {334, 305}}</string>
+			<key>sourceSize</key>
+			<string>{334, 305}</string>
+		</dict>
+		<key>menupics/can.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1139, 983}, {214, 321}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {214, 321}}</string>
+			<key>sourceSize</key>
+			<string>{214, 321}</string>
+		</dict>
+		<key>menupics/feild2big.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1928, 821}, {190, 63}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {190, 63}}</string>
+			<key>sourceSize</key>
+			<string>{190, 63}</string>
+		</dict>
+		<key>menupics/feildbig.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {1533, 509}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1533, 509}}</string>
+			<key>sourceSize</key>
+			<string>{1533, 509}</string>
+		</dict>
+		<key>menupics/football2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1996, 437}, {50, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 44}}</string>
+			<key>sourceSize</key>
+			<string>{50, 44}</string>
+		</dict>
+		<key>menupics/ground.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1928, 1}, {190, 107}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {190, 107}}</string>
+			<key>sourceSize</key>
+			<string>{190, 107}</string>
+		</dict>
+		<key>menupics/hills.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1928, 629}, {190, 63}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {190, 63}}</string>
+			<key>sourceSize</key>
+			<string>{190, 63}</string>
+		</dict>
+		<key>menupics/level select.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 512}, {1136, 640}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1136, 640}}</string>
+			<key>sourceSize</key>
+			<string>{1136, 640}</string>
+		</dict>
+		<key>menupics/menubackground.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1536, 1}, {1249, 390}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1249, 390}}</string>
+			<key>sourceSize</key>
+			<string>{1249, 390}</string>
+		</dict>
+		<key>menupics/player2_0noarm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1894}, {143, 190}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {143, 190}}</string>
+			<key>sourceSize</key>
+			<string>{143, 190}</string>
+		</dict>
+		<key>menupics/player_passparttwo-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{193, 1894}, {190, 135}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {190, 135}}</string>
+			<key>sourceSize</key>
+			<string>{190, 135}</string>
+		</dict>
+		<key>menupics/settings.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1928, 315}, {120, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 80}}</string>
+			<key>sourceSize</key>
+			<string>{120, 80}</string>
+		</dict>
+		<key>menupics/startbutton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1928, 437}, {190, 66}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {190, 66}}</string>
+			<key>sourceSize</key>
+			<string>{190, 66}</string>
+		</dict>
+		<key>menupics/table.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1139, 819}, {332, 162}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {332, 162}}</string>
+			<key>sourceSize</key>
+			<string>{332, 162}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 2048}</string>
+		<key>textureFileName</key>
+		<string>menupics.png</string>
+	</dict>
+</dict>
+</plist>
